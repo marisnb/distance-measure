@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "math-statistics": "^1.2.0",
-    "mmm-usonic": "^2.5.3"
+    "mmm-usonic": "git://github.com/mochman/mmm-usonic.git#fb43599"
   }
 }
